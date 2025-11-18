@@ -1,0 +1,11 @@
+{
+  "subjectArea" : {
+    "name" : "SubjectArea1117",
+    "sourceBusinessModel" : "businessModel:BusinessModel",
+    "tableOrder" : [ {
+      "name" : "presentationTable:SubjectArea1117.D3005"
+    }, {
+      "name" : "presentationTable:SubjectArea1117.D4905"
+    } ]
+  }
+}

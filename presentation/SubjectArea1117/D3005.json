@@ -1,0 +1,84 @@
+{
+  "presentationTable" : {
+    "name" : "D3005",
+    "presentationColumns" : [ {
+      "name" : "Yyyymm",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Yyyymm"
+    }, {
+      "name" : "Ueig",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Ueig"
+    }, {
+      "name" : "Rout",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Rout"
+    }, {
+      "name" : "Tiku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Tiku"
+    }, {
+      "name" : "Jeig",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Jeig"
+    }, {
+      "name" : "Seig",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Seig"
+    }, {
+      "name" : "Jig",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Jig"
+    }, {
+      "name" : "Uku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Uku"
+    }, {
+      "name" : "Gku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Gku"
+    }, {
+      "name" : "Zku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zku"
+    }, {
+      "name" : "Hinb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Hinb"
+    }, {
+      "name" : "Allkin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Allkin"
+    }, {
+      "name" : "Allken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Allken"
+    }, {
+      "name" : "Kibkin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Kibkin"
+    }, {
+      "name" : "Kibken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Kibken"
+    }, {
+      "name" : "K03kin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K03kin"
+    }, {
+      "name" : "K03ken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K03ken"
+    }, {
+      "name" : "K07kin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K07kin"
+    }, {
+      "name" : "K07ken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K07ken"
+    }, {
+      "name" : "K14kin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K14kin"
+    }, {
+      "name" : "K14ken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K14ken"
+    }, {
+      "name" : "K15kin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K15kin"
+    }, {
+      "name" : "K15ken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K15ken"
+    }, {
+      "name" : "Zenkin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zenkin"
+    }, {
+      "name" : "Zenken",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zenken"
+    }, {
+      "name" : "Column_1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Column_1"
+    } ]
+  }
+}
