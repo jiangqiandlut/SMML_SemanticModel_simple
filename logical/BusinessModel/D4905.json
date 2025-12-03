@@ -4430,7 +4430,7 @@
         } ]
       }
     }, {
-      "name" : "Column_Case",
+      "name" : "新規列_CASE",
       "dataType" : "VARCHAR",
       "writeable" : false,
       "logicalColumnSource" : {
@@ -4438,6 +4438,17 @@
         "logicalExpression" : {
           "expressionTemplate" : "CASE\n    WHEN %1  >= 10000 THEN '高'\n    WHEN %1   >= 5000  THEN '中'\n    ELSE '低'\nEND",
           "expressionObjects" : [ "logicalColumn:BusinessModel.D4905.Jhsuu01" ]
+        }
+      }
+    }, {
+      "name" : "新規列_DATE",
+      "dataType" : "DATE",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "LOGICAL_COLUMNS",
+        "logicalExpression" : {
+          "expressionTemplate" : "CAST(%1 as date )",
+          "expressionObjects" : [ "logicalColumn:BusinessModel.D4905.Hadt9" ]
         }
       }
     } ],

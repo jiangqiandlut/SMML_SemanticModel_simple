@@ -950,8 +950,11 @@
       "name" : "Ym",
       "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ym"
     }, {
-      "name" : "Column_Case",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Column_Case"
+      "name" : "新規列_CASE",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.新規列_CASE"
+    }, {
+      "name" : "新規列_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.新規列_DATE"
     } ]
   }
 }

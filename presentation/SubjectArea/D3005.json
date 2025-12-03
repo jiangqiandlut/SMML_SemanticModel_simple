@@ -77,8 +77,11 @@
       "name" : "Zenken",
       "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zenken"
     }, {
-      "name" : "Column_1",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Column_1"
+      "name" : "新規列_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.新規列_DATE"
+    }, {
+      "name" : "新規列_CASE",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.新規列_CASE"
     } ]
   }
 }
