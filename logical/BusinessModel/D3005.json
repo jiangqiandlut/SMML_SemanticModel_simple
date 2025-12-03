@@ -384,7 +384,6 @@
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,
       "distinctValues" : false
-    } ],
-    "primaryKey" : [ "Jig" ]
+    } ]
   }
 }
