@@ -1,87 +1,115 @@
 {
-  "presentationTable" : {
-    "name" : "D3005",
-    "presentationColumns" : [ {
-      "name" : "Yyyymm",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Yyyymm"
-    }, {
-      "name" : "Ueig",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Ueig"
-    }, {
-      "name" : "Rout",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Rout"
-    }, {
-      "name" : "Tiku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Tiku"
-    }, {
-      "name" : "Jeig",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Jeig"
-    }, {
-      "name" : "Seig",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Seig"
-    }, {
-      "name" : "Jig",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Jig"
-    }, {
-      "name" : "Uku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Uku"
-    }, {
-      "name" : "Gku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Gku"
-    }, {
-      "name" : "Zku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zku"
-    }, {
-      "name" : "Hinb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Hinb"
-    }, {
-      "name" : "Allkin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Allkin"
-    }, {
-      "name" : "Allken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Allken"
-    }, {
-      "name" : "Kibkin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Kibkin"
-    }, {
-      "name" : "Kibken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Kibken"
-    }, {
-      "name" : "K03kin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K03kin"
-    }, {
-      "name" : "K03ken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K03ken"
-    }, {
-      "name" : "K07kin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K07kin"
-    }, {
-      "name" : "K07ken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K07ken"
-    }, {
-      "name" : "K14kin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K14kin"
-    }, {
-      "name" : "K14ken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K14ken"
-    }, {
-      "name" : "K15kin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K15kin"
-    }, {
-      "name" : "K15ken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.K15ken"
-    }, {
-      "name" : "Zenkin",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zenkin"
-    }, {
-      "name" : "Zenken",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.Zenken"
-    }, {
-      "name" : "新規列_DATE",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.新規列_DATE"
-    }, {
-      "name" : "新規列_CASE",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D3005.新規列_CASE"
-    } ]
+  "presentationTable": {
+    "name": "D3005",
+    "presentationColumns": [
+      {
+        "name": "データ年月",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.データ年月"
+      },
+      {
+        "name": "売上営業所",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売上営業所"
+      },
+      {
+        "name": "売上ルート",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売上ルート"
+      },
+      {
+        "name": "出庫地区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.出庫地区"
+      },
+      {
+        "name": "受注営業所",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.受注営業所"
+      },
+      {
+        "name": "出庫営業所",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.出庫営業所"
+      },
+      {
+        "name": "事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.事業部"
+      },
+      {
+        "name": "売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売区"
+      },
+      {
+        "name": "Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.Ｇ区"
+      },
+      {
+        "name": "在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.在庫区分"
+      },
+      {
+        "name": "品番（１５ケタ）",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.品番（１５ケタ）"
+      },
+      {
+        "name": "全未納金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.全未納金額"
+      },
+      {
+        "name": "全未納件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.全未納件数"
+      },
+      {
+        "name": "希望以内金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望以内金額"
+      },
+      {
+        "name": "希望以内件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望以内件数"
+      },
+      {
+        "name": "希望3日金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望3日金額"
+      },
+      {
+        "name": "希望3日件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望3日件数"
+      },
+      {
+        "name": "希望7日金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望7日金額"
+      },
+      {
+        "name": "希望7日件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望7日件数"
+      },
+      {
+        "name": "希望14日金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望14日金額"
+      },
+      {
+        "name": "希望14日件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望14日件数"
+      },
+      {
+        "name": "希望15日金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望15日金額"
+      },
+      {
+        "name": "希望15日件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望15日件数"
+      },
+      {
+        "name": "希望前月金額",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望前月金額"
+      },
+      {
+        "name": "希望前月件数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望前月件数"
+      },
+      {
+        "name": "新規列_DATE",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.新規列_DATE"
+      },
+      {
+        "name": "新規列_CASE",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.新規列_CASE"
+      }
+    ]
   }
 }

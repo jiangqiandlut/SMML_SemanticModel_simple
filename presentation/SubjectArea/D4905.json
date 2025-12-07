@@ -1,960 +1,1279 @@
 {
-  "presentationTable" : {
-    "name" : "D4905",
-    "presentationColumns" : [ {
-      "name" : "Hin20",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Hin20"
-    }, {
-      "name" : "Jig",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jig"
-    }, {
-      "name" : "Uku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Uku"
-    }, {
-      "name" : "Gku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Gku"
-    }, {
-      "name" : "Bku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Bku"
-    }, {
-      "name" : "Zku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zku"
-    }, {
-      "name" : "Plmkb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Plmkb"
-    }, {
-      "name" : "Sbku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Sbku"
-    }, {
-      "name" : "Imkb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Imkb"
-    }, {
-      "name" : "Snku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Snku"
-    }, {
-      "name" : "Jhseiskb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhseiskb"
-    }, {
-      "name" : "Dzsuiskb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Dzsuiskb"
-    }, {
-      "name" : "Tand9",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Tand9"
-    }, {
-      "name" : "Hadt9",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Hadt9"
-    }, {
-      "name" : "Stpday",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Stpday"
-    }, {
-      "name" : "Nsku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Nsku"
-    }, {
-      "name" : "Kisku",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kisku"
-    }, {
-      "name" : "Kaigaikb",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kaigaikb"
-    }, {
-      "name" : "Selgai",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Selgai"
-    }, {
-      "name" : "Kdcd",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdcd"
-    }, {
-      "name" : "Cd Kojyo 1",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cd Kojyo 1"
-    }, {
-      "name" : "Cd Kojyo 2",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cd Kojyo 2"
-    }, {
-      "name" : "Tcd1",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Tcd1"
-    }, {
-      "name" : "Tcd2",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Tcd2"
-    }, {
-      "name" : "Tcd3",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Tcd3"
-    }, {
-      "name" : "Smk",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Smk"
-    }, {
-      "name" : "Bkbn",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Bkbn"
-    }, {
-      "name" : "Kcount",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kcount"
-    }, {
-      "name" : "T1h3suu",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.T1h3suu"
-    }, {
-      "name" : "Jnsuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu01"
-    }, {
-      "name" : "Eusuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu01"
-    }, {
-      "name" : "Jusuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu01"
-    }, {
-      "name" : "Cusuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu01"
-    }, {
-      "name" : "Jzsuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu01"
-    }, {
-      "name" : "Mzsuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu01"
-    }, {
-      "name" : "Jhsuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu01"
-    }, {
-      "name" : "Mhsuu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu01"
-    }, {
-      "name" : "Kjig01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig01"
-    }, {
-      "name" : "Kuku01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku01"
-    }, {
-      "name" : "Kgku01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku01"
-    }, {
-      "name" : "Kbunkbn01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn01"
-    }, {
-      "name" : "Kzku01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku01"
-    }, {
-      "name" : "Kplmkb01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb01"
-    }, {
-      "name" : "Knsku01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku01"
-    }, {
-      "name" : "Ksmk01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk01"
-    }, {
-      "name" : "Kimkb01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb01"
-    }, {
-      "name" : "Ksnku01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku01"
-    }, {
-      "name" : "Kjseiskb01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb01"
-    }, {
-      "name" : "Kdzsuikb01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb01"
-    }, {
-      "name" : "Zgetu01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu01"
-    }, {
-      "name" : "Kajo01",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo01"
-    }, {
-      "name" : "Jnsuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu02"
-    }, {
-      "name" : "Eusuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu02"
-    }, {
-      "name" : "Jusuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu02"
-    }, {
-      "name" : "Cusuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu02"
-    }, {
-      "name" : "Jzsuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu02"
-    }, {
-      "name" : "Mzsuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu02"
-    }, {
-      "name" : "Jhsuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu02"
-    }, {
-      "name" : "Mhsuu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu02"
-    }, {
-      "name" : "Kjig02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig02"
-    }, {
-      "name" : "Kuku02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku02"
-    }, {
-      "name" : "Kgku02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku02"
-    }, {
-      "name" : "Kbunkbn02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn02"
-    }, {
-      "name" : "Kzku02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku02"
-    }, {
-      "name" : "Kplmkb02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb02"
-    }, {
-      "name" : "Knsku02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku02"
-    }, {
-      "name" : "Ksmk02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk02"
-    }, {
-      "name" : "Kimkb02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb02"
-    }, {
-      "name" : "Ksnku02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku02"
-    }, {
-      "name" : "Kjseiskb02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb02"
-    }, {
-      "name" : "Kdzsuikb02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb02"
-    }, {
-      "name" : "Zgetu02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu02"
-    }, {
-      "name" : "Kajo02",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo02"
-    }, {
-      "name" : "Jnsuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu03"
-    }, {
-      "name" : "Eusuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu03"
-    }, {
-      "name" : "Jusuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu03"
-    }, {
-      "name" : "Cusuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu03"
-    }, {
-      "name" : "Jzsuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu03"
-    }, {
-      "name" : "Mzsuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu03"
-    }, {
-      "name" : "Jhsuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu03"
-    }, {
-      "name" : "Mhsuu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu03"
-    }, {
-      "name" : "Kjig03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig03"
-    }, {
-      "name" : "Kuku03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku03"
-    }, {
-      "name" : "Kgku03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku03"
-    }, {
-      "name" : "Kbunkbn03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn03"
-    }, {
-      "name" : "Kzku03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku03"
-    }, {
-      "name" : "Kplmkb03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb03"
-    }, {
-      "name" : "Knsku03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku03"
-    }, {
-      "name" : "Ksmk03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk03"
-    }, {
-      "name" : "Kimkb03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb03"
-    }, {
-      "name" : "Ksnku03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku03"
-    }, {
-      "name" : "Kjseiskb03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb03"
-    }, {
-      "name" : "Kdzsuikb03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb03"
-    }, {
-      "name" : "Zgetu03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu03"
-    }, {
-      "name" : "Kajo03",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo03"
-    }, {
-      "name" : "Jnsuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu04"
-    }, {
-      "name" : "Eusuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu04"
-    }, {
-      "name" : "Jusuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu04"
-    }, {
-      "name" : "Cusuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu04"
-    }, {
-      "name" : "Jzsuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu04"
-    }, {
-      "name" : "Mzsuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu04"
-    }, {
-      "name" : "Jhsuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu04"
-    }, {
-      "name" : "Mhsuu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu04"
-    }, {
-      "name" : "Kjig04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig04"
-    }, {
-      "name" : "Kuku04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku04"
-    }, {
-      "name" : "Kgku04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku04"
-    }, {
-      "name" : "Kbunkbn04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn04"
-    }, {
-      "name" : "Kzku04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku04"
-    }, {
-      "name" : "Kplmkb04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb04"
-    }, {
-      "name" : "Knsku04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku04"
-    }, {
-      "name" : "Ksmk04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk04"
-    }, {
-      "name" : "Kimkb04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb04"
-    }, {
-      "name" : "Ksnku04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku04"
-    }, {
-      "name" : "Kjseiskb04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb04"
-    }, {
-      "name" : "Kdzsuikb04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb04"
-    }, {
-      "name" : "Zgetu04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu04"
-    }, {
-      "name" : "Kajo04",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo04"
-    }, {
-      "name" : "Jnsuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu05"
-    }, {
-      "name" : "Eusuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu05"
-    }, {
-      "name" : "Jusuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu05"
-    }, {
-      "name" : "Cusuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu05"
-    }, {
-      "name" : "Jzsuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu05"
-    }, {
-      "name" : "Mzsuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu05"
-    }, {
-      "name" : "Jhsuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu05"
-    }, {
-      "name" : "Mhsuu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu05"
-    }, {
-      "name" : "Kjig05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig05"
-    }, {
-      "name" : "Kuku05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku05"
-    }, {
-      "name" : "Kgku05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku05"
-    }, {
-      "name" : "Kbunkbn05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn05"
-    }, {
-      "name" : "Kzku05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku05"
-    }, {
-      "name" : "Kplmkb05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb05"
-    }, {
-      "name" : "Knsku05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku05"
-    }, {
-      "name" : "Ksmk05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk05"
-    }, {
-      "name" : "Kimkb05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb05"
-    }, {
-      "name" : "Ksnku05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku05"
-    }, {
-      "name" : "Kjseiskb05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb05"
-    }, {
-      "name" : "Kdzsuikb05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb05"
-    }, {
-      "name" : "Zgetu05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu05"
-    }, {
-      "name" : "Kajo05",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo05"
-    }, {
-      "name" : "Jnsuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu06"
-    }, {
-      "name" : "Eusuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu06"
-    }, {
-      "name" : "Jusuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu06"
-    }, {
-      "name" : "Cusuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu06"
-    }, {
-      "name" : "Jzsuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu06"
-    }, {
-      "name" : "Mzsuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu06"
-    }, {
-      "name" : "Jhsuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu06"
-    }, {
-      "name" : "Mhsuu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu06"
-    }, {
-      "name" : "Kjig06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig06"
-    }, {
-      "name" : "Kuku06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku06"
-    }, {
-      "name" : "Kgku06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku06"
-    }, {
-      "name" : "Kbunkbn06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn06"
-    }, {
-      "name" : "Kzku06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku06"
-    }, {
-      "name" : "Kplmkb06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb06"
-    }, {
-      "name" : "Knsku06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku06"
-    }, {
-      "name" : "Ksmk06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk06"
-    }, {
-      "name" : "Kimkb06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb06"
-    }, {
-      "name" : "Ksnku06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku06"
-    }, {
-      "name" : "Kjseiskb06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb06"
-    }, {
-      "name" : "Kdzsuikb06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb06"
-    }, {
-      "name" : "Zgetu06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu06"
-    }, {
-      "name" : "Kajo06",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo06"
-    }, {
-      "name" : "Jnsuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu07"
-    }, {
-      "name" : "Eusuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu07"
-    }, {
-      "name" : "Jusuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu07"
-    }, {
-      "name" : "Cusuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu07"
-    }, {
-      "name" : "Jzsuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu07"
-    }, {
-      "name" : "Mzsuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu07"
-    }, {
-      "name" : "Jhsuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu07"
-    }, {
-      "name" : "Mhsuu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu07"
-    }, {
-      "name" : "Kjig07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig07"
-    }, {
-      "name" : "Kuku07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku07"
-    }, {
-      "name" : "Kgku07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku07"
-    }, {
-      "name" : "Kbunkbn07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn07"
-    }, {
-      "name" : "Kzku07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku07"
-    }, {
-      "name" : "Kplmkb07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb07"
-    }, {
-      "name" : "Knsku07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku07"
-    }, {
-      "name" : "Ksmk07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk07"
-    }, {
-      "name" : "Kimkb07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb07"
-    }, {
-      "name" : "Ksnku07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku07"
-    }, {
-      "name" : "Kjseiskb07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb07"
-    }, {
-      "name" : "Kdzsuikb07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb07"
-    }, {
-      "name" : "Zgetu07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu07"
-    }, {
-      "name" : "Kajo07",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo07"
-    }, {
-      "name" : "Jnsuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu08"
-    }, {
-      "name" : "Eusuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu08"
-    }, {
-      "name" : "Jusuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu08"
-    }, {
-      "name" : "Cusuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu08"
-    }, {
-      "name" : "Jzsuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu08"
-    }, {
-      "name" : "Mzsuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu08"
-    }, {
-      "name" : "Jhsuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu08"
-    }, {
-      "name" : "Mhsuu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu08"
-    }, {
-      "name" : "Kjig08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig08"
-    }, {
-      "name" : "Kuku08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku08"
-    }, {
-      "name" : "Kgku08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku08"
-    }, {
-      "name" : "Kbunkbn08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn08"
-    }, {
-      "name" : "Kzku08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku08"
-    }, {
-      "name" : "Kplmkb08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb08"
-    }, {
-      "name" : "Knsku08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku08"
-    }, {
-      "name" : "Ksmk08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk08"
-    }, {
-      "name" : "Kimkb08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb08"
-    }, {
-      "name" : "Ksnku08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku08"
-    }, {
-      "name" : "Kjseiskb08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb08"
-    }, {
-      "name" : "Kdzsuikb08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb08"
-    }, {
-      "name" : "Zgetu08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu08"
-    }, {
-      "name" : "Kajo08",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo08"
-    }, {
-      "name" : "Jnsuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu09"
-    }, {
-      "name" : "Eusuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu09"
-    }, {
-      "name" : "Jusuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu09"
-    }, {
-      "name" : "Cusuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu09"
-    }, {
-      "name" : "Jzsuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu09"
-    }, {
-      "name" : "Mzsuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu09"
-    }, {
-      "name" : "Jhsuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu09"
-    }, {
-      "name" : "Mhsuu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu09"
-    }, {
-      "name" : "Kjig09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig09"
-    }, {
-      "name" : "Kuku09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku09"
-    }, {
-      "name" : "Kgku09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku09"
-    }, {
-      "name" : "Kbunkbn09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn09"
-    }, {
-      "name" : "Kzku09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku09"
-    }, {
-      "name" : "Kplmkb09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb09"
-    }, {
-      "name" : "Knsku09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku09"
-    }, {
-      "name" : "Ksmk09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk09"
-    }, {
-      "name" : "Kimkb09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb09"
-    }, {
-      "name" : "Ksnku09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku09"
-    }, {
-      "name" : "Kjseiskb09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb09"
-    }, {
-      "name" : "Kdzsuikb09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb09"
-    }, {
-      "name" : "Zgetu09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu09"
-    }, {
-      "name" : "Kajo09",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo09"
-    }, {
-      "name" : "Jnsuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu10"
-    }, {
-      "name" : "Eusuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu10"
-    }, {
-      "name" : "Jusuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu10"
-    }, {
-      "name" : "Cusuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu10"
-    }, {
-      "name" : "Jzsuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu10"
-    }, {
-      "name" : "Mzsuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu10"
-    }, {
-      "name" : "Jhsuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu10"
-    }, {
-      "name" : "Mhsuu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu10"
-    }, {
-      "name" : "Kjig10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig10"
-    }, {
-      "name" : "Kuku10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku10"
-    }, {
-      "name" : "Kgku10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku10"
-    }, {
-      "name" : "Kbunkbn10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn10"
-    }, {
-      "name" : "Kzku10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku10"
-    }, {
-      "name" : "Kplmkb10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb10"
-    }, {
-      "name" : "Knsku10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku10"
-    }, {
-      "name" : "Ksmk10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk10"
-    }, {
-      "name" : "Kimkb10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb10"
-    }, {
-      "name" : "Ksnku10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku10"
-    }, {
-      "name" : "Kjseiskb10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb10"
-    }, {
-      "name" : "Kdzsuikb10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb10"
-    }, {
-      "name" : "Zgetu10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu10"
-    }, {
-      "name" : "Kajo10",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo10"
-    }, {
-      "name" : "Jnsuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu11"
-    }, {
-      "name" : "Eusuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu11"
-    }, {
-      "name" : "Jusuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu11"
-    }, {
-      "name" : "Cusuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu11"
-    }, {
-      "name" : "Jzsuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu11"
-    }, {
-      "name" : "Mzsuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu11"
-    }, {
-      "name" : "Jhsuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu11"
-    }, {
-      "name" : "Mhsuu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu11"
-    }, {
-      "name" : "Kjig11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig11"
-    }, {
-      "name" : "Kuku11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku11"
-    }, {
-      "name" : "Kgku11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku11"
-    }, {
-      "name" : "Kbunkbn11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn11"
-    }, {
-      "name" : "Kzku11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku11"
-    }, {
-      "name" : "Kplmkb11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb11"
-    }, {
-      "name" : "Knsku11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku11"
-    }, {
-      "name" : "Ksmk11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk11"
-    }, {
-      "name" : "Kimkb11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb11"
-    }, {
-      "name" : "Ksnku11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku11"
-    }, {
-      "name" : "Kjseiskb11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb11"
-    }, {
-      "name" : "Kdzsuikb11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb11"
-    }, {
-      "name" : "Zgetu11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu11"
-    }, {
-      "name" : "Kajo11",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo11"
-    }, {
-      "name" : "Jnsuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu12"
-    }, {
-      "name" : "Eusuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu12"
-    }, {
-      "name" : "Jusuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu12"
-    }, {
-      "name" : "Cusuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu12"
-    }, {
-      "name" : "Jzsuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu12"
-    }, {
-      "name" : "Mzsuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu12"
-    }, {
-      "name" : "Jhsuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu12"
-    }, {
-      "name" : "Mhsuu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu12"
-    }, {
-      "name" : "Kjig12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig12"
-    }, {
-      "name" : "Kuku12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku12"
-    }, {
-      "name" : "Kgku12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku12"
-    }, {
-      "name" : "Kbunkbn12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn12"
-    }, {
-      "name" : "Kzku12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku12"
-    }, {
-      "name" : "Kplmkb12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb12"
-    }, {
-      "name" : "Knsku12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku12"
-    }, {
-      "name" : "Ksmk12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk12"
-    }, {
-      "name" : "Kimkb12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb12"
-    }, {
-      "name" : "Ksnku12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku12"
-    }, {
-      "name" : "Kjseiskb12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb12"
-    }, {
-      "name" : "Kdzsuikb12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb12"
-    }, {
-      "name" : "Zgetu12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu12"
-    }, {
-      "name" : "Kajo12",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo12"
-    }, {
-      "name" : "Jnsuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jnsuu13"
-    }, {
-      "name" : "Eusuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Eusuu13"
-    }, {
-      "name" : "Jusuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jusuu13"
-    }, {
-      "name" : "Cusuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Cusuu13"
-    }, {
-      "name" : "Jzsuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jzsuu13"
-    }, {
-      "name" : "Mzsuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mzsuu13"
-    }, {
-      "name" : "Jhsuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Jhsuu13"
-    }, {
-      "name" : "Mhsuu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Mhsuu13"
-    }, {
-      "name" : "Kjig13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjig13"
-    }, {
-      "name" : "Kuku13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kuku13"
-    }, {
-      "name" : "Kgku13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kgku13"
-    }, {
-      "name" : "Kbunkbn13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kbunkbn13"
-    }, {
-      "name" : "Kzku13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kzku13"
-    }, {
-      "name" : "Kplmkb13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kplmkb13"
-    }, {
-      "name" : "Knsku13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Knsku13"
-    }, {
-      "name" : "Ksmk13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksmk13"
-    }, {
-      "name" : "Kimkb13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kimkb13"
-    }, {
-      "name" : "Ksnku13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ksnku13"
-    }, {
-      "name" : "Kjseiskb13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kjseiskb13"
-    }, {
-      "name" : "Kdzsuikb13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kdzsuikb13"
-    }, {
-      "name" : "Zgetu13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Zgetu13"
-    }, {
-      "name" : "Kajo13",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Kajo13"
-    }, {
-      "name" : "Ym",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.Ym"
-    }, {
-      "name" : "新規列_CASE",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.新規列_CASE"
-    }, {
-      "name" : "新規列_DATE",
-      "sourceLogicalColumn" : "logicalColumn:BusinessModel.D4905.新規列_DATE"
-    } ]
+  "presentationTable": {
+    "name": "D4905",
+    "presentationColumns": [
+      {
+        "name": "品番",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.品番"
+      },
+      {
+        "name": "事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.事業部"
+      },
+      {
+        "name": "売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.売区"
+      },
+      {
+        "name": "Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ｇ区"
+      },
+      {
+        "name": "商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.商品分類区分"
+      },
+      {
+        "name": "在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.在庫区分"
+      },
+      {
+        "name": "ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.ＰＬＭ区分"
+      },
+      {
+        "name": "製品部品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.製品部品区分"
+      },
+      {
+        "name": "ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.ＩＭ区分"
+      },
+      {
+        "name": "商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.商品内容区分"
+      },
+      {
+        "name": "受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.受注生産品区分"
+      },
+      {
+        "name": "代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.代理店在庫推奨品区分"
+      },
+      {
+        "name": "代理店渡単価",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.代理店渡単価"
+      },
+      {
+        "name": "発売年月",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.発売年月"
+      },
+      {
+        "name": "生産中止日",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.生産中止日"
+      },
+      {
+        "name": "新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.新商品区分"
+      },
+      {
+        "name": "季節商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.季節商品区分"
+      },
+      {
+        "name": "海外生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.海外生産品区分"
+      },
+      {
+        "name": "対象外区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.対象外区分"
+      },
+      {
+        "name": "工場代表コード",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.工場代表コード"
+      },
+      {
+        "name": "工場コード１",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.工場コード１"
+      },
+      {
+        "name": "工場コード２",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.工場コード２"
+      },
+      {
+        "name": "取引先コード１",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.取引先コード１"
+      },
+      {
+        "name": "取引先コード２",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.取引先コード２"
+      },
+      {
+        "name": "取引先コード３",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.取引先コード３"
+      },
+      {
+        "name": "主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.主管マーケティング本部"
+      },
+      {
+        "name": "分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.分類区分"
+      },
+      {
+        "name": "継続回数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.継続回数"
+      },
+      {
+        "name": "３ヶ月平均売上数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月平均売上数"
+      },
+      {
+        "name": "１ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前生産実績数"
+      },
+      {
+        "name": "１ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前営業販売数"
+      },
+      {
+        "name": "１ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前社販部販数"
+      },
+      {
+        "name": "１ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前直販輸出数"
+      },
+      {
+        "name": "１ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前後方在庫数"
+      },
+      {
+        "name": "１ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前前線在庫数"
+      },
+      {
+        "name": "１ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前後方引当数"
+      },
+      {
+        "name": "１ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前前線引当数"
+      },
+      {
+        "name": "１ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算事業部"
+      },
+      {
+        "name": "１ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算売区"
+      },
+      {
+        "name": "１ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "１ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "１ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算在庫区分"
+      },
+      {
+        "name": "１ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "１ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算新商品区分"
+      },
+      {
+        "name": "１ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "１ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "１ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "１ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "１ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "１ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前在庫月数"
+      },
+      {
+        "name": "１ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１ヶ月前過剰区分"
+      },
+      {
+        "name": "２ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前生産実績数"
+      },
+      {
+        "name": "２ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前営業販売数"
+      },
+      {
+        "name": "２ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前社販部販数"
+      },
+      {
+        "name": "２ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前直販輸出数"
+      },
+      {
+        "name": "２ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前後方在庫数"
+      },
+      {
+        "name": "２ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前前線在庫数"
+      },
+      {
+        "name": "２ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前後方引当数"
+      },
+      {
+        "name": "２ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前前線引当数"
+      },
+      {
+        "name": "２ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算事業部"
+      },
+      {
+        "name": "２ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算売区"
+      },
+      {
+        "name": "２ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "２ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "２ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算在庫区分"
+      },
+      {
+        "name": "２ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "２ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算新商品区分"
+      },
+      {
+        "name": "２ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "２ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "２ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "２ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "２ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "２ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前在庫月数"
+      },
+      {
+        "name": "２ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.２ヶ月前過剰区分"
+      },
+      {
+        "name": "３ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前生産実績数"
+      },
+      {
+        "name": "３ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前営業販売数"
+      },
+      {
+        "name": "３ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前社販部販数"
+      },
+      {
+        "name": "３ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前直販輸出数"
+      },
+      {
+        "name": "３ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前後方在庫数"
+      },
+      {
+        "name": "３ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前前線在庫数"
+      },
+      {
+        "name": "３ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前後方引当数"
+      },
+      {
+        "name": "３ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前前線引当数"
+      },
+      {
+        "name": "３ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算事業部"
+      },
+      {
+        "name": "３ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算売区"
+      },
+      {
+        "name": "３ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "３ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "３ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算在庫区分"
+      },
+      {
+        "name": "３ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "３ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算新商品区分"
+      },
+      {
+        "name": "３ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "３ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "３ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "３ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "３ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "３ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前在庫月数"
+      },
+      {
+        "name": "３ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.３ヶ月前過剰区分"
+      },
+      {
+        "name": "４ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前生産実績数"
+      },
+      {
+        "name": "４ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前営業販売数"
+      },
+      {
+        "name": "４ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前社販部販数"
+      },
+      {
+        "name": "４ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前直販輸出数"
+      },
+      {
+        "name": "４ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前後方在庫数"
+      },
+      {
+        "name": "４ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前前線在庫数"
+      },
+      {
+        "name": "４ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前後方引当数"
+      },
+      {
+        "name": "４ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前前線引当数"
+      },
+      {
+        "name": "４ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算事業部"
+      },
+      {
+        "name": "４ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算売区"
+      },
+      {
+        "name": "４ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "４ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "４ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算在庫区分"
+      },
+      {
+        "name": "４ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "４ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算新商品区分"
+      },
+      {
+        "name": "４ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "４ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "４ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "４ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "４ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "４ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前在庫月数"
+      },
+      {
+        "name": "４ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.４ヶ月前過剰区分"
+      },
+      {
+        "name": "５ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前生産実績数"
+      },
+      {
+        "name": "５ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前営業販売数"
+      },
+      {
+        "name": "５ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前社販部販数"
+      },
+      {
+        "name": "５ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前直販輸出数"
+      },
+      {
+        "name": "５ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前後方在庫数"
+      },
+      {
+        "name": "５ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前前線在庫数"
+      },
+      {
+        "name": "５ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前後方引当数"
+      },
+      {
+        "name": "５ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前前線引当数"
+      },
+      {
+        "name": "５ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算事業部"
+      },
+      {
+        "name": "５ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算売区"
+      },
+      {
+        "name": "５ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "５ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "５ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算在庫区分"
+      },
+      {
+        "name": "５ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "５ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算新商品区分"
+      },
+      {
+        "name": "５ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "５ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "５ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "５ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "５ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "５ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前在庫月数"
+      },
+      {
+        "name": "５ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.５ヶ月前過剰区分"
+      },
+      {
+        "name": "６ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前生産実績数"
+      },
+      {
+        "name": "６ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前営業販売数"
+      },
+      {
+        "name": "６ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前社販部販数"
+      },
+      {
+        "name": "６ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前直販輸出数"
+      },
+      {
+        "name": "６ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前後方在庫数"
+      },
+      {
+        "name": "６ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前前線在庫数"
+      },
+      {
+        "name": "６ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前後方引当数"
+      },
+      {
+        "name": "６ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前前線引当数"
+      },
+      {
+        "name": "６ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算事業部"
+      },
+      {
+        "name": "６ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算売区"
+      },
+      {
+        "name": "６ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "６ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "６ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算在庫区分"
+      },
+      {
+        "name": "６ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "６ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算新商品区分"
+      },
+      {
+        "name": "６ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "６ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "６ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "６ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "６ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "６ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前在庫月数"
+      },
+      {
+        "name": "６ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.６ヶ月前過剰区分"
+      },
+      {
+        "name": "７ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前生産実績数"
+      },
+      {
+        "name": "７ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前営業販売数"
+      },
+      {
+        "name": "７ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前社販部販数"
+      },
+      {
+        "name": "７ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前直販輸出数"
+      },
+      {
+        "name": "７ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前後方在庫数"
+      },
+      {
+        "name": "７ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前前線在庫数"
+      },
+      {
+        "name": "７ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前後方引当数"
+      },
+      {
+        "name": "７ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前前線引当数"
+      },
+      {
+        "name": "７ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算事業部"
+      },
+      {
+        "name": "７ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算売区"
+      },
+      {
+        "name": "７ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "７ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "７ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算在庫区分"
+      },
+      {
+        "name": "７ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "７ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算新商品区分"
+      },
+      {
+        "name": "７ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "７ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "７ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "７ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "７ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "７ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前在庫月数"
+      },
+      {
+        "name": "７ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.７ヶ月前過剰区分"
+      },
+      {
+        "name": "８ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前生産実績数"
+      },
+      {
+        "name": "８ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前営業販売数"
+      },
+      {
+        "name": "８ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前社販部販数"
+      },
+      {
+        "name": "８ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前直販輸出数"
+      },
+      {
+        "name": "８ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前後方在庫数"
+      },
+      {
+        "name": "８ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前前線在庫数"
+      },
+      {
+        "name": "８ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前後方引当数"
+      },
+      {
+        "name": "８ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前前線引当数"
+      },
+      {
+        "name": "８ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算事業部"
+      },
+      {
+        "name": "８ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算売区"
+      },
+      {
+        "name": "８ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "８ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "８ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算在庫区分"
+      },
+      {
+        "name": "８ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "８ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算新商品区分"
+      },
+      {
+        "name": "８ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "８ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "８ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "８ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "８ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "８ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前在庫月数"
+      },
+      {
+        "name": "８ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.８ヶ月前過剰区分"
+      },
+      {
+        "name": "９ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前生産実績数"
+      },
+      {
+        "name": "９ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前営業販売数"
+      },
+      {
+        "name": "９ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前社販部販数"
+      },
+      {
+        "name": "９ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前直販輸出数"
+      },
+      {
+        "name": "９ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前後方在庫数"
+      },
+      {
+        "name": "９ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前前線在庫数"
+      },
+      {
+        "name": "９ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前後方引当数"
+      },
+      {
+        "name": "９ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前前線引当数"
+      },
+      {
+        "name": "９ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算事業部"
+      },
+      {
+        "name": "９ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算売区"
+      },
+      {
+        "name": "９ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "９ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "９ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算在庫区分"
+      },
+      {
+        "name": "９ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "９ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算新商品区分"
+      },
+      {
+        "name": "９ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "９ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "９ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "９ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "９ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "９ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前在庫月数"
+      },
+      {
+        "name": "９ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.９ヶ月前過剰区分"
+      },
+      {
+        "name": "１０ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前生産実績数"
+      },
+      {
+        "name": "１０ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前営業販売数"
+      },
+      {
+        "name": "１０ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前社販部販数"
+      },
+      {
+        "name": "１０ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前直販輸出数"
+      },
+      {
+        "name": "１０ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前後方在庫数"
+      },
+      {
+        "name": "１０ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前前線在庫数"
+      },
+      {
+        "name": "１０ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前後方引当数"
+      },
+      {
+        "name": "１０ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前前線引当数"
+      },
+      {
+        "name": "１０ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算事業部"
+      },
+      {
+        "name": "１０ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算売区"
+      },
+      {
+        "name": "１０ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "１０ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "１０ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算在庫区分"
+      },
+      {
+        "name": "１０ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "１０ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算新商品区分"
+      },
+      {
+        "name": "１０ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "１０ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "１０ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "１０ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "１０ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "１０ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前在庫月数"
+      },
+      {
+        "name": "１０ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１０ヶ月前過剰区分"
+      },
+      {
+        "name": "１１ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前生産実績数"
+      },
+      {
+        "name": "１１ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前営業販売数"
+      },
+      {
+        "name": "１１ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前社販部販数"
+      },
+      {
+        "name": "１１ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前直販輸出数"
+      },
+      {
+        "name": "１１ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前後方在庫数"
+      },
+      {
+        "name": "１１ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前前線在庫数"
+      },
+      {
+        "name": "１１ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前後方引当数"
+      },
+      {
+        "name": "１１ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前前線引当数"
+      },
+      {
+        "name": "１１ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算事業部"
+      },
+      {
+        "name": "１１ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算売区"
+      },
+      {
+        "name": "１１ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "１１ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "１１ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算在庫区分"
+      },
+      {
+        "name": "１１ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "１１ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算新商品区分"
+      },
+      {
+        "name": "１１ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "１１ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "１１ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "１１ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "１１ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "１１ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前在庫月数"
+      },
+      {
+        "name": "１１ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１１ヶ月前過剰区分"
+      },
+      {
+        "name": "１２ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前生産実績数"
+      },
+      {
+        "name": "１２ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前営業販売数"
+      },
+      {
+        "name": "１２ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前社販部販数"
+      },
+      {
+        "name": "１２ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前直販輸出数"
+      },
+      {
+        "name": "１２ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前後方在庫数"
+      },
+      {
+        "name": "１２ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前前線在庫数"
+      },
+      {
+        "name": "１２ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前後方引当数"
+      },
+      {
+        "name": "１２ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前前線引当数"
+      },
+      {
+        "name": "１２ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算事業部"
+      },
+      {
+        "name": "１２ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算売区"
+      },
+      {
+        "name": "１２ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "１２ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "１２ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算在庫区分"
+      },
+      {
+        "name": "１２ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "１２ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算新商品区分"
+      },
+      {
+        "name": "１２ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "１２ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "１２ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "１２ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "１２ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "１２ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前在庫月数"
+      },
+      {
+        "name": "１２ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１２ヶ月前過剰区分"
+      },
+      {
+        "name": "１３ヶ月前生産実績数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前生産実績数"
+      },
+      {
+        "name": "１３ヶ月前営業販売数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前営業販売数"
+      },
+      {
+        "name": "１３ヶ月前社販部販数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前社販部販数"
+      },
+      {
+        "name": "１３ヶ月前直販輸出数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前直販輸出数"
+      },
+      {
+        "name": "１３ヶ月前後方在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前後方在庫数"
+      },
+      {
+        "name": "１３ヶ月前前線在庫数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前前線在庫数"
+      },
+      {
+        "name": "１３ヶ月前後方引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前後方引当数"
+      },
+      {
+        "name": "１３ヶ月前前線引当数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前前線引当数"
+      },
+      {
+        "name": "１３ヶ月前決算事業部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算事業部"
+      },
+      {
+        "name": "１３ヶ月前決算売区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算売区"
+      },
+      {
+        "name": "１３ヶ月前決算Ｇ区",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算Ｇ区"
+      },
+      {
+        "name": "１３ヶ月前決算商品分類区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算商品分類区分"
+      },
+      {
+        "name": "１３ヶ月前決算在庫区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算在庫区分"
+      },
+      {
+        "name": "１３ヶ月前決算ＰＬＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算ＰＬＭ区分"
+      },
+      {
+        "name": "１３ヶ月前決算新商品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算新商品区分"
+      },
+      {
+        "name": "１３ヶ月前決算主管マーケティング本部",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算主管マーケティング本部"
+      },
+      {
+        "name": "１３ヶ月前決算ＩＭ区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算ＩＭ区分"
+      },
+      {
+        "name": "１３ヶ月前決算商品内容区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算商品内容区分"
+      },
+      {
+        "name": "１３ヶ月前決算受注生産品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算受注生産品区分"
+      },
+      {
+        "name": "１３ヶ月前決算代理店在庫推奨品区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前決算代理店在庫推奨品区分"
+      },
+      {
+        "name": "１３ヶ月前在庫月数",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前在庫月数"
+      },
+      {
+        "name": "１３ヶ月前過剰区分",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.１３ヶ月前過剰区分"
+      },
+      {
+        "name": "データ年月",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.データ年月"
+      },
+      {
+        "name": "新規列_DATE",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.新規列_DATE"
+      },
+      {
+        "name": "新規列_CASE",
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.新規列_CASE"
+      }
+    ]
   }
 }
