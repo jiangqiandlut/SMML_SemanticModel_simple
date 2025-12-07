@@ -64,8 +64,8 @@
       "nullable" : true
     }, {
       "name" : "TAND9",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "HADT9",
@@ -139,53 +139,53 @@
       "nullable" : true
     }, {
       "name" : "KCOUNT",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 3,
       "nullable" : true
     }, {
       "name" : "T1H3SUU",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JNSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG01",
@@ -249,8 +249,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU01",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO01",
@@ -259,43 +259,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG02",
@@ -359,8 +359,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU02",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO02",
@@ -369,43 +369,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG03",
@@ -469,8 +469,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU03",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO03",
@@ -479,43 +479,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG04",
@@ -579,8 +579,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU04",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO04",
@@ -589,43 +589,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG05",
@@ -689,8 +689,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU05",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO05",
@@ -699,43 +699,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG06",
@@ -799,8 +799,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU06",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO06",
@@ -809,43 +809,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG07",
@@ -909,8 +909,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU07",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO07",
@@ -919,43 +919,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG08",
@@ -1019,8 +1019,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU08",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO08",
@@ -1029,43 +1029,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG09",
@@ -1129,8 +1129,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU09",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO09",
@@ -1139,43 +1139,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG10",
@@ -1239,8 +1239,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU10",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO10",
@@ -1249,43 +1249,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG11",
@@ -1349,8 +1349,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU11",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO11",
@@ -1359,43 +1359,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG12",
@@ -1459,8 +1459,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU12",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO12",
@@ -1469,43 +1469,43 @@
       "nullable" : true
     }, {
       "name" : "JNSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "EUSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JUSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "CUSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JZSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MZSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "JHSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "MHSUU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 9,
       "nullable" : true
     }, {
       "name" : "KJIG13",
@@ -1569,8 +1569,8 @@
       "nullable" : true
     }, {
       "name" : "ZGETU13",
-      "dataType" : "NUMERIC",
-      "length" : 0,
+      "dataType" : "NUMBER",
+      "length" : 5,
       "nullable" : true
     }, {
       "name" : "KAJO13",

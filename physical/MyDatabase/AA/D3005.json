@@ -60,72 +60,72 @@
     }, {
       "name" : "ALLKIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "ALLKEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "KIBKIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "KIBKEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "K03KIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "K03KEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "K07KIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "K07KEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "K14KIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "K14KEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "K15KIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "K15KEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     }, {
       "name" : "ZENKIN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 11,
       "nullable" : true
     }, {
       "name" : "ZENKEN",
       "dataType" : "NUMERIC",
-      "length" : 0,
+      "length" : 7,
       "nullable" : true
     } ],
     "caching" : {
