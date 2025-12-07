@@ -4,103 +4,103 @@
     "presentationColumns": [
       {
         "name": "データ年月",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.データ年月"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.YYYYMM"
       },
       {
         "name": "売上営業所",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売上営業所"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.UEIG"
       },
       {
         "name": "売上ルート",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売上ルート"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ROUT"
       },
       {
         "name": "出庫地区",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.出庫地区"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.TIKU"
       },
       {
         "name": "受注営業所",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.受注営業所"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.JEIG"
       },
       {
         "name": "出庫営業所",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.出庫営業所"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.SEIG"
       },
       {
         "name": "事業部",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.事業部"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.JIG"
       },
       {
         "name": "売区",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.売区"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.UKU"
       },
       {
         "name": "Ｇ区",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.Ｇ区"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.GKU"
       },
       {
         "name": "在庫区分",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.在庫区分"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ZKU"
       },
       {
         "name": "品番（１５ケタ）",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.品番（１５ケタ）"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.HINB"
       },
       {
         "name": "全未納金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.全未納金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ALLKIN"
       },
       {
         "name": "全未納件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.全未納件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ALLKEN"
       },
       {
         "name": "希望以内金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望以内金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.KIBKIN"
       },
       {
         "name": "希望以内件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望以内件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.KIBKEN"
       },
       {
         "name": "希望3日金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望3日金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K03KIN"
       },
       {
         "name": "希望3日件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望3日件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K03KEN"
       },
       {
         "name": "希望7日金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望7日金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K07KIN"
       },
       {
         "name": "希望7日件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望7日件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K07KEN"
       },
       {
         "name": "希望14日金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望14日金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K14KIN"
       },
       {
         "name": "希望14日件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望14日件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K14KEN"
       },
       {
         "name": "希望15日金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望15日金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K15KIN"
       },
       {
         "name": "希望15日件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望15日件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.K15KEN"
       },
       {
         "name": "希望前月金額",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望前月金額"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ZENKIN"
       },
       {
         "name": "希望前月件数",
-        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.希望前月件数"
+        "sourceLogicalColumn": "logicalColumn:BusinessModel.D3005.ZENKEN"
       },
       {
         "name": "新規列_DATE",
