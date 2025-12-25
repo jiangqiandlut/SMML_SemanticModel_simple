@@ -6016,7 +6016,7 @@
           "logicalExpression": {
             "expressionTemplate": "CASE\n    WHEN %1>1000   THEN 'high' \n  ELSE 'low'\nEND",
             "expressionObjects": [
-              "logicalColumn:BusinessModel.D4905.col"
+              "logicalColumn:BusinessModel.D4905.TAND9"
             ]
           }
         }
