@@ -501,7 +501,7 @@
           "logicalExpression": {
             "expressionTemplate": "CASE\n    WHEN %1>1000   THEN 'high' \n  ELSE low'\nEND",
             "expressionObjects": [
-              "logicalColumn:BusinessModel.D3005.col"
+              "logicalColumn:BusinessModel.D3005.ALLKEN"
             ]
           }
         }
