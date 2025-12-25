@@ -1,389 +1,525 @@
 {
-  "logicalTable" : {
-    "name" : "D3005",
-    "type" : "DIMENSION",
-    "logicalColumns" : [ {
-      "name" : "YYYYMM",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.YYYYMM" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "UEIG",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.UEIG" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ROUT",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ROUT" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "TIKU",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.TIKU" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "JEIG",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.JEIG" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "SEIG",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.SEIG" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "JIG",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.JIG" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "UKU",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.UKU" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "GKU",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.GKU" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ZKU",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ZKU" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "HINB",
-      "dataType" : "CHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.HINB" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ALLKIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ALLKIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ALLKEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ALLKEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "KIBKIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.KIBKIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "KIBKEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.KIBKEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K03KIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K03KIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K03KEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K03KEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K07KIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K07KIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K07KEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K07KEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K14KIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K14KIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K14KEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K14KEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K15KIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K15KIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "K15KEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.K15KEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ZENKIN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ZENKIN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "ZENKEN",
-      "dataType" : "NUMERIC",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "PHYSICAL_COLUMNS",
-        "physicalMappings" : [ {
-          "logicalTableSource" : "D3005",
-          "physicalExpression" : {
-            "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.AA.D3005.ZENKEN" ]
-          }
-        } ]
-      }
-    }, {
-      "name" : "新規列_DATE",
-      "dataType" : "DATE",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "LOGICAL_COLUMNS",
-        "logicalExpression" : {
-          "expressionTemplate" : "CAST(%1 AS DATE)",
-          "expressionObjects" : [ "logicalColumn:BusinessModel.D3005.YYYYMM" ]
+  "logicalTable": {
+    "name": "D3005",
+    "type": "DIMENSION",
+    "logicalColumns": [
+      {
+        "name": "YYYYMM",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.YYYYMM"
+                ]
+              }
+            }
+          ]
         }
-      }
-    }, {
-      "name" : "新規列_CASE",
-      "dataType" : "VARCHAR",
-      "writeable" : false,
-      "logicalColumnSource" : {
-        "derivedFrom" : "LOGICAL_COLUMNS",
-        "logicalExpression" : {
-          "expressionTemplate" : "CASE\n    WHEN %1>1000   THEN 'high' \n  ELSE 'low'\nEND",
-          "expressionObjects" : [ "logicalColumn:BusinessModel.D3005.ALLKEN" ]
-        }
-      }
-    } ],
-    "logicalTableSources" : [ {
-      "name" : "D3005",
-      "disable" : false,
-      "tableMapping" : {
-        "tables" : [ "physicalTable:MyDatabase.AA.D3005" ]
       },
-      "combineWithOtherFragments" : false,
-      "enableFragmentSelection" : false,
-      "distinctValues" : false
-    } ]
+      {
+        "name": "UEIG",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.UEIG"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ROUT",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ROUT"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "TIKU",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.TIKU"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "JEIG",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.JEIG"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "SEIG",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.SEIG"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "JIG",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.JIG"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "UKU",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.UKU"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "GKU",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.GKU"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ZKU",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ZKU"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "HINB",
+        "dataType": "CHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.HINB"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ALLKIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ALLKIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ALLKEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ALLKEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "KIBKIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.KIBKIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "KIBKEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.KIBKEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K03KIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K03KIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K03KEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K03KEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K07KIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K07KIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K07KEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K07KEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K14KIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K14KIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K14KEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K14KEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K15KIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K15KIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "K15KEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.K15KEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ZENKIN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ZENKIN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "ZENKEN",
+        "dataType": "NUMERIC",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "PHYSICAL_COLUMNS",
+          "physicalMappings": [
+            {
+              "logicalTableSource": "D3005",
+              "physicalExpression": {
+                "expressionTemplate": "%1",
+                "expressionObjects": [
+                  "physicalColumn:MyDatabase.AA.D3005.ZENKEN"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "新規列_DATE",
+        "dataType": "DATE",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "LOGICAL_COLUMNS",
+          "logicalExpression": {
+            "expressionTemplate": "CAST(%1 AS DATE)",
+            "expressionObjects": [
+              "logicalColumn:BusinessModel.D3005.col"
+            ]
+          }
+        }
+      },
+      {
+        "name": "新規列_CASE",
+        "dataType": "VARCHAR",
+        "writeable": false,
+        "logicalColumnSource": {
+          "derivedFrom": "LOGICAL_COLUMNS",
+          "logicalExpression": {
+            "expressionTemplate": "CASE\n    WHEN %1   THEN \n  ELSE \nEND",
+            "expressionObjects": [
+              "logicalColumn:BusinessModel.D3005.col"
+            ]
+          }
+        }
+      }
+    ],
+    "logicalTableSources": [
+      {
+        "name": "D3005",
+        "disable": false,
+        "tableMapping": {
+          "tables": [
+            "physicalTable:MyDatabase.AA.D3005"
+          ]
+        },
+        "combineWithOtherFragments": false,
+        "enableFragmentSelection": false,
+        "distinctValues": false
+      }
+    ]
   }
 }
